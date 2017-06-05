@@ -4,9 +4,9 @@
 .title {
  margin: 3px;
  background-color: #ffffff;
- border: 1px solid black;
- opacity: .4;
- 
+ border: 2px solid red;
+ opacity: .6;
+ margin: 3px;
 }
  
 
@@ -16,18 +16,15 @@
  margin: 5%;
  font-weight: bold;
  text-align: center;
- 
- 
- 
 }
  
 .navbar {
  margin: 3px;
  background-color: #ffffff;
  border: 1px solid black;
- opacity: .4;
+ padding: 3px;
+ opacity: .6;
  text-align: center;
- 
 }
 
 .navbar li {
@@ -38,8 +35,6 @@
  padding-right: 20px;
  margin: 1px;
  position: relative;
-  
- 
 }
 
 a {
@@ -49,7 +44,6 @@ a {
 
 a:link {
  text-decoration: none;
- 
 }
 
 
@@ -58,25 +52,49 @@ body {
  background-repeat: no-repeat;
  background-size:cover;
  min-height: inherit;
-
-
 }
 
+main {
+ margin: 3px;
+ background-color: #ffffff;
+ border: 2px solid red;
+ opacity: .6;
+ margin-bottom: 100px;
+}
 
- .catchphrase {
-	color: deepskyblue;
-	padding-bottom: 400px;
+ main p {
+	font-family: "Miama";
+	font-size: 90px;
+	color: black;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 15px;
+	text-align: center;
+	line-height: 60px;
  }
  
 
-
-
 .reviews {
- padding-bottom: 100%
+ font-family: "Miama";
+ font-size: 60px;
+ text-align: center;
+ font-weight: bold;
+ background-color: #ffffff;
+ border: 1px solid black;
+ padding-top: 40px;
+ padding-bottom: 40px;
+ margin-bottom: 100px;
+ opacity: .6;
+ margin-top: 20px;
+ line-height: 10px;
 }
 
-.reviewsectionbox {
- 
+.reviewbutton {
+ font-family: "Miama";
+ font-size: 30px;
+ font-weight: bolder;
+ letter-spacing: 4px;
+ background-color: red;
 }
 
 
@@ -95,13 +113,13 @@ footer {
 }
  
  
- .infobox {
+.infobox {
  text-align: center;
  padding: 1px;
  background-color: white;
- margin: 10px;
- opacity: .4;
- 
+ margin: 3px;
+ opacity: .6;
+ border: 1px solid black;
 }
  
  
@@ -112,18 +130,15 @@ footer {
  font-weight: bolder;
  font-size: 30px;
  padding: 2px;
- 
- 
 }
 
 
 
 .trademark {
  padding: 5px;
+ margin-top: 8px;
  font-family: "Miama";
  font-size: 20px;
  font-weight: bold;
  position:sticky;
- 
- 
 }

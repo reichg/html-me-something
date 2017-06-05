@@ -6,7 +6,6 @@
  background-color: #ffffff;
  border: 1px solid black;
  opacity: .6;
- 
 }
  
 
@@ -16,18 +15,15 @@
  margin: 5%;
  font-weight: bold;
  text-align: center;
- 
- 
- 
 }
  
 .navbar {
  margin: 3px;
  background-color: #ffffff;
  border: 1px solid black;
+ padding: 3px;
  opacity: .6;
  text-align: center;
- 
 }
 
 .navbar li {
@@ -38,9 +34,7 @@
  padding-right: 20px;
  margin: 1px;
  position: relative;
-  
- 
-}
+ }
 
 a {
  
@@ -49,8 +43,7 @@ a {
 
 a:link {
  text-decoration: none;
- 
-}
+ }
 
 
 body {
@@ -58,7 +51,6 @@ body {
  background-repeat: no-repeat;
  background-size: cover;
  white-space: nowrap; 
-
 }
 
 
@@ -68,7 +60,7 @@ body {
  background-color: #ffffff;
  border: 1px solid black;
  opacity: .6;
- padding-bottom: 100%;
+ padding-bottom: 90%;
 }
 
 
@@ -93,19 +85,15 @@ footer {
  background-color: white;
  margin: 10px;
  opacity: .6;
+ }
  
-}
  
- 
-
 .infobox p {
  color: black;
  font-family: "Miama", sans-serif;
  font-weight: bolder;
  font-size: 30px;
  padding: 2px;
- 
- 
 }
 
 
@@ -116,6 +104,4 @@ footer {
  font-size: 20px;
  font-weight: bold;
  position:sticky;
- 
- 
 }
