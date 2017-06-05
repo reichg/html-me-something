@@ -1,0 +1,129 @@
+ @font-face { font-family: Miama; src: url('Fonts/Miama.otf'); }
+
+
+.title {
+ margin: 3px;
+ background-color: #ffffff;
+ border: 1px solid black;
+ opacity: .4;
+ 
+}
+ 
+
+.title p {
+ font-family: "Miama", sans-serif;
+ font-size: 100px;
+ margin: 5%;
+ font-weight: bold;
+ text-align: center;
+ 
+ 
+ 
+}
+ 
+.navbar {
+ margin: 3px;
+ background-color: #ffffff;
+ border: 1px solid black;
+ opacity: .4;
+ text-align: center;
+ 
+}
+
+.navbar li {
+ list-style-type: none;
+ display: inline;
+ border: 2px solid black;
+ padding-left: 20px;
+ padding-right: 20px;
+ margin: 1px;
+ position: relative;
+  
+ 
+}
+
+a {
+ 
+ color: black;
+}
+
+a:link {
+ text-decoration: none;
+ 
+}
+
+
+body {
+ background-image: url(Images/Pizza_Background.jpg);
+ background-repeat: no-repeat;
+ background-size:cover;
+ min-height: inherit;
+
+
+}
+
+
+ .catchphrase {
+	color: deepskyblue;
+	padding-bottom: 400px;
+ }
+ 
+
+
+
+.reviews {
+ padding-bottom: 100%
+}
+
+.reviewsectionbox {
+ 
+}
+
+
+footer {
+ position:inherit;
+ background-color: none;
+ bottom: 0;
+ right: 0;
+ left: 0;
+ text-align: center;
+ padding-bottom: 10px;
+ padding-top: 10px;
+ font-size: 12px;
+ font-weight: bolder;
+ line-height: 2px;
+}
+ 
+ 
+ .infobox {
+ text-align: center;
+ padding: 1px;
+ background-color: white;
+ margin: 10px;
+ opacity: .4;
+ 
+}
+ 
+ 
+
+.infobox p {
+ color: black;
+ font-family: "Miama", sans-serif;
+ font-weight: bolder;
+ font-size: 30px;
+ padding: 2px;
+ 
+ 
+}
+
+
+
+.trademark {
+ padding: 5px;
+ font-family: "Miama";
+ font-size: 20px;
+ font-weight: bold;
+ position:sticky;
+ 
+ 
+}
